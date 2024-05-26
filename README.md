@@ -1,6 +1,6 @@
 # Mikkel Endresen
 
-#### Technical Skills: #### Python, C++, Numpy, Pytorch
+#### Technical Skills: Python, C++, Numpy, Pytorch
 
 ## Education
 **University of New South Wales  (_Feb 2020 - Dec 2023_)**

@@ -12,9 +12,23 @@
       - Innovator Pro, Participant  (_2021_)
 
 ## Work Experience
-- a
-- -b
-- c
+
+**Software Developer @ GoodX (_Nov 2020 - Jan 2023)**
+- Write here
+- Write here
+- Write here
+
+**Software Developer @ GoodX (_Nov 2020 - Jan 2023)**
+- Write here
+- Write here
+- Write here
+
+
+**Software Developer @ GoodX (_Nov 2020 - Jan 2023)**
+- Write here
+- Write here
+- Write here
+
 
 ## Projects
 omething

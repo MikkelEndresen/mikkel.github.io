@@ -5,11 +5,11 @@
 ## Education
 #### University of New South Wales  (_Feb 2020 - Dec 2023_)
 
-**Bachelor of Science in Computer Science (Artificial Intelligence) with Distinction**
+_Bachelor of Science in Computer Science (Artificial Intelligence) with Distinction_
 
-**Bachelor of Commerce in Financial Technology with Distinction**
+_Bachelor of Commerce in Financial Technology with Distinction_
 
-**Special Achievements:**
+_Special Achievements:_
 - Leadership Foundations, Participant  (_2023_)
 - UNSW Professional Development Program - Workplace Experience, Participant  (_2023_)
 - UNSW Career Discovery Mentoring Program, Mentee  (_2023_)

@@ -42,18 +42,15 @@
 - Promted from intern to Software Developer
 - Designed and implemented a microservices architecture using RESTful APIs with FastAPI, utilising AWS cloud solutions like S3 and lambda for deployment. 
 - Contributed to the development of business valuation algorithms by improving data processes and legacy code, reducing valuation errors by 30%.
-- Automated the business valuation report generation using a Python library called reportlab, producing individualised reports for over 500 companies. 
+- Automated the business valuation report generation using a Python library called reportlab, producing individualised reports for over 500 companies.
+
 
 **Consultant @ UNSW Finance (_Feb 2023 - May 2023_)**
 - Collaborated in a team of eight on the first design of a Graduate program for the Finance department at UNSW. 
-- Write here
-- Write here
 
 
 **Ice Hockey and Skating Coach @ Entrepreneur (_Dec 2021 - Dec 2023_)**
-- Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching more than 500+ hours.
-- Write here
-- Write here
+- Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching for more than 500+ hours.
 
 
 

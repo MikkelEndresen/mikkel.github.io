@@ -3,6 +3,25 @@
 #### Technical Skills: Python, C++, Numpy, Pytorch
 
 
+
+
+## Projects
+
+### Car crash severity prediction (_2023_)
+- Recieved the Berrijam Innovative Applications of AI Award
+
+[Github Repo](https://github.com/MikkelEndresen/portfolio/tree/main/TheLastOfUs)
+
+### Data extraction from unstructured text (_2024))
+-
+
+[Github Repo](https://github.com/MikkelEndresen/DataExtractionFromText)
+
+### CSV / pandas (_2024_)
+-
+
+[Github Repo](https://github.com/MikkelEndresen/DataCleaning)
+
 ## Education
 
 ### University of New South Wales  (_Feb 2020 - Dec 2023_)
@@ -16,25 +35,6 @@
   - UNSW Professional Development Program - Workplace Experience, Participant  (_2023_)
   - UNSW Career Discovery Mentoring Program, Mentee  (_2023_)
   - Innovator Pro, Participant  (_2021_)
-
-
-## Projects
-
-### Car crash severity prediction
-- Recieved the Berrijam Innovative Applications of AI Award
-
-[Github Repo](https://github.com/MikkelEndresen/portfolio/tree/main/TheLastOfUs)
-
-### Data extraction from unstructured text
--
-
-[Github Repo](https://github.com/MikkelEndresen/DataExtractionFromText)
-
-### CSV / pandas 
--
-
-[Github Repo](https://github.com/MikkelEndresen/DataCleaning)
-
 
 ## Work Experience
 

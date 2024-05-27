@@ -26,10 +26,14 @@
 [Github Repo](https://github.com/MikkelEndresen/portfolio/tree/main/TheLastOfUs)
 
 ### Data extraction from unstructured text
-- 
+-
+
+[Github Repo](https://github.com/MikkelEndresen/DataExtractionFromText)
 
 ### CSV / pandas 
-- 
+-
+
+[Github Repo](https://github.com/MikkelEndresen/DataCleaning)
 
 
 ## Work Experience

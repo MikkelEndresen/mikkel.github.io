@@ -20,8 +20,9 @@
 
 **Software Developer @ GoodX (_Nov 2020 - Jan 2023_)**
 - Promted from intern to Software Developer
-- Write here
-- Write here
+- Designed and implemented a microservices architecture using RESTful APIs with FastAPI, utilising AWS cloud solutions like S3 and lambda for deployment. 
+- Contributed to the development of business valuation algorithms by improving data processes and legacy code, reducing valuation errors by 30%.
+- Automated the business valuation report generation using a Python library called reportlab, producing individualised reports for over 500 companies. 
 
 **Consultant @ UNSW Finance (_Feb 2023 - May 2023_)**
 - Write here
@@ -37,5 +38,7 @@
 
 ## Projects
 omething
+
+somethign
 
 somethign

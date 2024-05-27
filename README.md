@@ -7,11 +7,11 @@
 
 ### University of New South Wales  (_Feb 2020 - Dec 2023_)
 
-  **Bachelor of Science in Computer Science (Artificial Intelligence) with Distinction**
+  Bachelor of Science in Computer Science (Artificial Intelligence) with Distinction
   
-  **Bachelor of Commerce in Financial Technology with Distinction**
+  Bachelor of Commerce in Financial Technology with Distinction
   
-  _Special Achievements:_
+  Special Achievements:
   - Leadership Foundations, Participant  (_2023_)
   - UNSW Professional Development Program - Workplace Experience, Participant  (_2023_)
   - UNSW Career Discovery Mentoring Program, Mentee  (_2023_)
@@ -19,6 +19,16 @@
 
 
 ## Projects
+
+### Car crash severity prediction
+- REcieved the Berrijam Innovative Applications of AI Award
+
+### Data extraction from unstructured text
+- 
+
+### CSV / pandas 
+- 
+
 
 ## Work Experience
 

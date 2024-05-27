@@ -4,17 +4,21 @@
 
 
 ## Education
-**University of New South Wales  (_Feb 2020 - Dec 2023_)**
 
-  _Bachelor of Science in Computer Science (Artificial Intelligence) with Distinction_
+### University of New South Wales  (_Feb 2020 - Dec 2023_)
+
+  **Bachelor of Science in Computer Science (Artificial Intelligence) with Distinction**
   
-  _Bachelor of Commerce in Financial Technology with Distinction_
+  **Bachelor of Commerce in Financial Technology with Distinction**
   
   _Special Achievements:_
   - Leadership Foundations, Participant  (_2023_)
   - UNSW Professional Development Program - Workplace Experience, Participant  (_2023_)
   - UNSW Career Discovery Mentoring Program, Mentee  (_2023_)
   - Innovator Pro, Participant  (_2021_)
+
+
+## Projects
 
 ## Work Experience
 
@@ -25,7 +29,7 @@
 - Automated the business valuation report generation using a Python library called reportlab, producing individualised reports for over 500 companies. 
 
 **Consultant @ UNSW Finance (_Feb 2023 - May 2023_)**
-- Write here
+- Collaborated in a team of eight on the first design of a Graduate program for the Finance department at UNSW. 
 - Write here
 - Write here
 
@@ -36,9 +40,5 @@
 - Write here
 
 
-## Projects
-omething
 
-somethign
 
-somethign

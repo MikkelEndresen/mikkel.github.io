@@ -9,16 +9,17 @@
 
 ### Car crash severity prediction (_2023_)
 - Recieved the Berrijam Innovative Applications of AI Award
+- 
 
 [Github Repo](https://github.com/MikkelEndresen/portfolio/tree/main/TheLastOfUs)
 
-### Data extraction from unstructured text (_2024))
--
+### Data extraction from unstructured text (_2024_)
+- Description
 
 [Github Repo](https://github.com/MikkelEndresen/DataExtractionFromText)
 
 ### CSV / pandas (_2024_)
--
+- Description
 
 [Github Repo](https://github.com/MikkelEndresen/DataCleaning)
 

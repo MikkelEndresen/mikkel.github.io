@@ -2,6 +2,7 @@
 
 #### Technical Skills: Python, C++, Numpy, Pytorch
 
+
 ## Education
 **University of New South Wales  (_Feb 2020 - Dec 2023_)**
 
@@ -18,18 +19,18 @@
 ## Work Experience
 
 **Software Developer @ GoodX (_Nov 2020 - Jan 2023_)**
+- Promted from intern to Software Developer
+- Write here
+- Write here
+
+**Consultant @ UNSW Finance (_Feb 2023 - May 2023_)**
 - Write here
 - Write here
 - Write here
 
-**Software Developer @ GoodX (_Nov 2020 - Jan 2023_)**
-- Write here
-- Write here
-- Write here
 
-
-**Software Developer @ GoodX (_Nov 2020 - Jan 2023_)**
-- Write here
+**Ice Hockey and Skating Coach @ Entrepreneur (_Dec 2021 - Dec 2023_)**
+- Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching more than 500+ hours.
 - Write here
 - Write here
 

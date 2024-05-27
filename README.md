@@ -22,6 +22,7 @@
 
 ### Car crash severity prediction
 - REcieved the Berrijam Innovative Applications of AI Award
+Link: <a href="[https://xxx.github.io/research/](https://github.com/MikkelEndresen/portfolio/tree/main/TheLastOfUs)">Github Repo</a>.
 
 ### Data extraction from unstructured text
 - 

@@ -61,5 +61,11 @@
 - Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching for more than 500+ hours.
 
 
+## Learning
+
+- [Hackerrank Profile](https://www.hackerrank.com/profile/endresen_mikkel)
+
+
+
 
 

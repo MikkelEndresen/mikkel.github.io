@@ -6,14 +6,14 @@
 ## Projects
 
 ### Car crash severity prediction (_2023_)
+- Used a dataset with traffic data from ACT and one with traffic camera locations to predict the car crash severity under certain conditions. Applied different statistical models as well as a neural networks to the problem in order to compare their performance. Performed extensive data preprocessing as the dataset was very skewed. SVM ended up being the best model with an accuracy of 93%.
 - Recieved the Berrijam Innovative Applications of AI Award for the project.
-- Used a dataset with traffic data from ACT and one with traffic camera locations, to predict the car crash severity under certain conditions. Applied different statistical models as well as a neural networks to the problem in order to compare their performance. All code was written in Python and Sklaern was used to create the various models. SVM ended up being the best model with an accuracy of 93%.
 - Key technologies used: Sklearn, Numpy, Pandas.
   
 [Github Repo](https://github.com/MikkelEndresen/portfolio/tree/main/TheLastOfUs)
 
 ### Language Identification using Convolutional Neural Networks
-- Applied Convolutional Neural Networks to the Language Identification problem. Transformed audio samples to mel spectograms that was used as input for the model and subsequently trained it to identify five different languages. Resulting accuracy was 88.4% using a CNN-BiLSTM model.
+- Applied Convolutional Neural Networks to the Language Identification problem. Transformed audio samples to mel spectograms that was used as input for the model and subsequently trained it to identify five different languages. Performed hyperparameter tuning to identify optimal paramters for four different models. Best accuracy was 88.4% using a CNN-BiLSTM model.
 - Key technologies used: Pytorch, Numpy.
 
 [Github Repo](https://github.com/MikkelEndresen/portfolio/tree/main/LanguageIdentification)

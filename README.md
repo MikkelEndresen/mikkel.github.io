@@ -12,7 +12,7 @@
   
 [Github Repo](https://github.com/MikkelEndresen/portfolio/tree/main/TheLastOfUs)
 
-### Language Identification using Convolutional Neural Networks (_2023_)
+### Language identification using convolutional neural networks (_2023_)
 - Applied Convolutional Neural Networks to the Language Identification problem. Transformed audio samples to mel spectograms that was used as input for the model and subsequently trained it to identify five different languages. Performed hyperparameter tuning to identify optimal paramters for four different models. Best accuracy was 88.4% using a CNN-BiLSTM model.
 - Key technologies used: Pytorch, Numpy.
 

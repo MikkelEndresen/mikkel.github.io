@@ -64,6 +64,8 @@
 ## Learning
 
 - [Hackerrank Profile](https://www.hackerrank.com/profile/endresen_mikkel)
+- Deeplearning.AI course: [Databases: From Embeddings to Applications](https://learn.deeplearning.ai/accomplishments/4b82e5ea-042f-408c-8ad2-6c81675f916c?usp=sharing)
+- Deeplearning.AI course: [Building Applications with Vector Databases](https://learn.deeplearning.ai/accomplishments/e6ffc5ae-e56e-4f19-b473-37a482089334)
 
 
 

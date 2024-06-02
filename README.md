@@ -24,7 +24,7 @@
 
 [Github Repo](https://github.com/MikkelEndresen/DataExtractionFromText)
 
-### CSV -> pandas (_2024_)
+### CSV -> pandas, web application (_2024_)
 - A web application that processes and displays data. Input a .csv file and it returns the data as a df with the correct dtypes. You can also manually select other dtypes if needed. Uses React.js for the frontend and a Django for the backend API's.
 - Key technologies used: Pandas, Django, React.
 

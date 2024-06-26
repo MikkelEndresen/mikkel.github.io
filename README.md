@@ -5,7 +5,7 @@
 
 ## Projects
 
-### Car crash severity prediction (_2023_)
+### Car crash severity classification (_2023_)
 - Used a dataset with traffic data from ACT and one with traffic camera locations to predict the car crash severity under certain conditions. Applied different statistical models as well as a neural networks to the problem in order to compare their performance. Performed extensive data preprocessing as the dataset was very skewed. SVM ended up being the best model with an accuracy of 93%.
 - Recieved the Berrijam Innovative Applications of AI Award for the project.
 - Key technologies used: Sklearn, Numpy, Pandas.

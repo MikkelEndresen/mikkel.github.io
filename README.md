@@ -2,15 +2,6 @@
 
 #### Technical Skills: Python, C++, Numpy, Pytorch, Langchain, Pandas, Sklearn, FastAPI, Django
 
-## Skills
-| Skill            | Experience     | 
-|:-----------------|:--------------:|
-| Vector Databases | - Neo4j courses, [Learning](##Learning)<br> |
-| Pytorch          | - [Language Identification](###Language-identification-using-convolutional-neural-networks)<br> |
-| FastAPI          | - [GoodX](**Softwar-Developer-@-GoodX) |
-| Numpy            | - [Language Identification](###Language-identification-using-convolutional-neural-networks)<br> - [Car Crash Severity](###Car-crash-severity-classification) |
-
-
 ## Projects
 
 ### Car crash severity classification (_2023_)

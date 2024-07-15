@@ -60,6 +60,14 @@
 **Ice Hockey and Skating Coach @ Entrepreneur (_Dec 2021 - Dec 2023_)**
 - Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching for more than 500+ hours.
 
+## Skills
+| Skill            | Experience     | 
+|:-----------------|:--------------:|
+| Vector Databases | - Neo4j courses, [Learning](##Learning)<br> |
+| Pytorch          | - [Language Identification](### Language identification using convolutional neural networks)<br> |
+| FastAPI          | - [GoodX](**Software Developer @ GoodX) |
+| Numpy            | - [Language Identification](### Language identification using convolutional neural networks)<br> - [Car Crash Severity](### Car crash severity classification) |
+
 
 ## Learning
 

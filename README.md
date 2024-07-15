@@ -2,37 +2,6 @@
 
 #### Technical Skills: Python, C++, Numpy, Pytorch, Langchain, Pandas, Sklearn, FastAPI, Django
 
-<h2>Skills</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Skill</th>
-      <th>Experience</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Vector Databases</td>
-      <td>- Neo4j courses, <a href="#Learning">Learning</a></td>
-    </tr>
-    <tr>
-      <td>Pytorch</td>
-      <td>- <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></td>
-    </tr>
-    <tr>
-      <td>FastAPI</td>
-      <td>- <a href="#Softwar-Developer-@-GoodX">GoodX</a></td>
-    </tr>
-    <tr>
-      <td>Numpy</td>
-      <td>- <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a><br>
-          - <a href="#car-crash-severity-classification">Car Crash Severity</a></td>
-    </tr>
-  </tbody>
-</table>
-
-
-
 ## Projects
 
 ### Car crash severity classification (_2023_)  <a name="car-crash-severity-classification"></a>
@@ -91,8 +60,7 @@
 - Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching for more than 500+ hours.
 
 
-<h2 id="Learning">Learning</h2>
-
+##Learning
 - [Hackerrank Profile](https://www.hackerrank.com/profile/endresen_mikkel)
 - Deeplearning.AI course: [Databases: From Embeddings to Applications](https://learn.deeplearning.ai/accomplishments/4b82e5ea-042f-408c-8ad2-6c81675f916c?usp=sharing)
 - Deeplearning.AI course: [Building Applications with Vector Databases](https://learn.deeplearning.ai/accomplishments/e6ffc5ae-e56e-4f19-b473-37a482089334)

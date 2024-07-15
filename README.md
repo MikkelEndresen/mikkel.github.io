@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td>Pytorch</td>
-      <td>- <a href="#Language-identification-using-convolutional-neural-networks">Language Identification</a></td>
+      <td>- <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></td>
     </tr>
     <tr>
       <td>FastAPI</td>
@@ -25,8 +25,8 @@
     </tr>
     <tr>
       <td>Numpy</td>
-      <td>- <a href="#Language-identification-using-convolutional-neural-networks">Language Identification</a><br>
-          - <a href="###Car-crash-severity-classification">Car Crash Severity</a></td>
+      <td>- <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a><br>
+          - <a href="#car-crash-severity-classification">Car Crash Severity</a></td>
     </tr>
   </tbody>
 </table>
@@ -35,14 +35,14 @@
 
 ## Projects
 
-### Car crash severity classification (_2023_)
+### Car crash severity classification (_2023_)  <a name="car-crash-severity-classification"></a>
 - Used a dataset with traffic data from ACT and one with traffic camera locations to predict the car crash severity under certain conditions. Applied different statistical models as well as a neural networks to the problem in order to compare their performance. Performed extensive data preprocessing as the dataset was very skewed. SVM ended up being the best model with an accuracy of 93%.
 - Recieved the Berrijam Innovative Applications of AI Award for the project.
 - Key technologies used: Sklearn, Numpy, Pandas.
   
 [Github Repo](https://github.com/MikkelEndresen/portfolio/tree/main/TheLastOfUs)
 
-### Language identification using convolutional neural networks (_2023_)
+### Language identification using convolutional neural networks (_2023_) <a name="language-identification-using-convolutional-neural-networks"></a>
 - Applied Convolutional Neural Networks to the Language Identification problem. Transformed audio samples to mel spectograms that was used as input for the model and subsequently trained it to identify five different languages. Performed hyperparameter tuning to identify optimal paramters for four different models. Best accuracy was 88.4% using a CNN-BiLSTM model.
 - Key technologies used: Pytorch, Numpy.
 
@@ -91,7 +91,6 @@
 - Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching for more than 500+ hours.
 
 
-## Learning
 <h2 id="Learning">Learning</h2>
 
 - [Hackerrank Profile](https://www.hackerrank.com/profile/endresen_mikkel)

@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td>Vector Databases</td>
-      <td>- Neo4j courses, <a href="##Learning">Learning</a></td>
+      <td>- Neo4j courses, <a href="#Learning">Learning</a></td>
     </tr>
     <tr>
       <td>Pytorch</td>
@@ -90,16 +90,9 @@
 **Ice Hockey and Skating Coach @ Entrepreneur (_Dec 2021 - Dec 2023_)**
 - Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching for more than 500+ hours.
 
-## Skills
-| Skill            | Experience     | 
-|:-----------------|:--------------:|
-| Vector Databases | - Neo4j courses, [Learning](##Learning)<br> |
-| Pytorch          | - [Language Identification](### Language identification using convolutional neural networks)<br> |
-| FastAPI          | - [GoodX](**Software Developer @ GoodX) |
-| Numpy            | - [Language Identification](### Language identification using convolutional neural networks)<br> - [Car Crash Severity](### Car crash severity classification) |
-
 
 ## Learning
+<h2 id="Learning">Learning</h2>
 
 - [Hackerrank Profile](https://www.hackerrank.com/profile/endresen_mikkel)
 - Deeplearning.AI course: [Databases: From Embeddings to Applications](https://learn.deeplearning.ai/accomplishments/4b82e5ea-042f-408c-8ad2-6c81675f916c?usp=sharing)

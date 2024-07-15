@@ -66,6 +66,13 @@
 - [Hackerrank Profile](https://www.hackerrank.com/profile/endresen_mikkel)
 - Deeplearning.AI course: [Databases: From Embeddings to Applications](https://learn.deeplearning.ai/accomplishments/4b82e5ea-042f-408c-8ad2-6c81675f916c?usp=sharing)
 - Deeplearning.AI course: [Building Applications with Vector Databases](https://learn.deeplearning.ai/accomplishments/e6ffc5ae-e56e-4f19-b473-37a482089334)
+- DataCamp course: [Introduction to Shell](https://www.datacamp.com/completed/statement-of-accomplishment/course/095dfc1407b0f0a600a1185b54581dac52f06d4b)
+- Neo4j course: [Cypher Fundamentals](https://graphacademy.neo4j.com/c/59055e2b-b506-4297-986d-75186097348c/)
+- Neo4j course: [Introduction to Neo4j Graph Data Science](https://graphacademy.neo4j.com/c/853a8c4f-0da6-4d73-8e96-0770751b3557/)
+- Microsoft module: [Fundamental AI Concepts](https://learn.microsoft.com/en-us/users/mikkelendresen-2694/achievements/4s75de7k)
+- Microsoft module: [Fundamentals of Azura AI Services](https://learn.microsoft.com/nb-no/users/mikkelendresen-2694/achievements/vkfhz7em?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- Microsoft module: [Fundamentals of machine learning](https://learn.microsoft.com/en-us/users/mikkelendresen-2694/achievements/pta9r854)
+- Microsoft module: [Microsoft Azure AI Fundamentals: AI Overview](https://learn.microsoft.com/nb-no/users/mikkelendresen-2694/achievements/wagth3fn?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 
 

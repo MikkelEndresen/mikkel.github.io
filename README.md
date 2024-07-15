@@ -26,7 +26,7 @@
     <tr>
       <td>Numpy</td>
       <td>- <a href="#Language-identification-using-convolutional-neural-networks">Language Identification</a><br>
-          - <a href="#Car-crash-severity-classification">Car Crash Severity</a></td>
+          - <a href="###Car-crash-severity-classification">Car Crash Severity</a></td>
     </tr>
   </tbody>
 </table>

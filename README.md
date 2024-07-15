@@ -2,6 +2,37 @@
 
 #### Technical Skills: Python, C++, Numpy, Pytorch, Langchain, Pandas, Sklearn, FastAPI, Django
 
+<h2>Skills</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Skill</th>
+      <th>Experience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Vector Databases</td>
+      <td>- Neo4j courses, <a href="#Learning">Learning</a></td>
+    </tr>
+    <tr>
+      <td>Pytorch</td>
+      <td>- <a href="#Language-identification-using-convolutional-neural-networks">Language Identification</a></td>
+    </tr>
+    <tr>
+      <td>FastAPI</td>
+      <td>- <a href="#Softwar-Developer-@-GoodX">GoodX</a></td>
+    </tr>
+    <tr>
+      <td>Numpy</td>
+      <td>- <a href="#Language-identification-using-convolutional-neural-networks">Language Identification</a><br>
+          - <a href="#Car-crash-severity-classification">Car Crash Severity</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ## Projects
 
 ### Car crash severity classification (_2023_)

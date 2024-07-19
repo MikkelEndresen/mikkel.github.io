@@ -60,6 +60,46 @@
 - Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching for more than 500+ hours.
 
 
+<h2>Skills</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Skill</th>
+      <th>Experience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Vector Databases</td>
+      <td>- Neo4j courses, <a href="#Learning">Learning</a></td>
+      <td>- Cypher Fundamentals course, <a href="cypher-fundamentals">Learning</a></td>
+      <td>- Databases: From Embeddings to Applications course, <a href="databases:-from-embeddings-to-applications">Learning</a></td>
+      <td>- Building Applications with Vector Databases course, <a href="building-applications-with-vector-databases">Learning</a></td>
+    </tr>
+    <tr>
+      <td>Pytorch</td>
+      <td>- <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></td>
+    </tr>
+    <tr>
+      <td>FastAPI</td>
+      <td>- <a href="#Softwar-Developer-@-GoodX">GoodX</a></td>
+    </tr>
+    <tr>
+      <td>Numpy</td>
+      <td>- <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a><br>
+          - <a href="#car-crash-severity-classification">Car Crash Severity</a></td>
+    </tr>
+    <tr>
+      <td>Django</td>
+      <td>- Personal project<a href="CSV-to-pandas-web-application">GoodX</a></td>
+    </tr>
+    <tr>
+      <td>ReactJS</td>
+      <td>- Personal project<a href="CSV-to-pandas-web-application">GoodX</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ## Learning

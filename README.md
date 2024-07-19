@@ -60,6 +60,24 @@
       </td>
     </tr>
     <tr>
+      <td>Numpy</td>
+      <td>
+        <ul>
+          <li>University project, <a href="car-crash-severity-classification">Car crash severity classification</a></li>
+          <li>University project, <a href="language-identification-using-convolutional-neural-networks">Language identification using convolutional neural networks</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Pandas</td>
+      <td>
+        <ul>
+          <li>University project, <a href="car-crash-severity-classification">Car crash severity classification</a></li>
+          <li>Personal project, <a href="CSV-to-pandas-web-application">CSV to pandas web application</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>AWS</td>
       <td>
         <ul>

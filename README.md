@@ -60,17 +60,37 @@
 - Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching for more than 500+ hours.
 
 
-
+<style>
+  .skills-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+  }
+  .skills-table th, .skills-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  .skills-table th {
+    background-color: #f2f2f2;
+  }
+  .skills-table ul {
+    margin: 0;
+    padding-left: 20px;
+  }
+  /* Add this rule for vertical lines */
+  .skills-table td, .skills-table th {
+    border-right: 1px solid #ddd;
+  }
+  /* Add this rule to remove the right border from the last column */
+  .skills-table td:last-child, .skills-table th:last-child {
+    border-right: none;
+  }
+</style>
 
 
 <h2>Skills</h2>
 <table class="skills-table">
-  <thead>
-    <tr>
-      <th>Skill</th>
-      <th>Experience</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>Vector Databases</td>

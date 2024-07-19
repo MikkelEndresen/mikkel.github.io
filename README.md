@@ -64,6 +64,7 @@
   .skills-table {
     width: 100%;
     border-collapse: collapse;
+    border: 1px solid #ddd;
   }
   .skills-table th, .skills-table td {
     border: 1px solid #ddd;
@@ -76,6 +77,14 @@
   .skills-table ul {
     margin: 0;
     padding-left: 20px;
+  }
+  /* Add this rule for vertical lines */
+  .skills-table td, .skills-table th {
+    border-right: 1px solid #ddd;
+  }
+  /* Add this rule to remove the right border from the last column */
+  .skills-table td:last-child, .skills-table th:last-child {
+    border-right: none;
   }
 </style>
 

@@ -71,10 +71,10 @@
   <tbody>
     <tr>
       <td>Vector Databases</td>
-      <td>- Neo4j courses, <a href="#Learning">Learning</a></td>
-      <td>- Cypher Fundamentals course, <a href="cypher-fundamentals">Learning</a></td>
-      <td>- Databases: From Embeddings to Applications course, <a href="databases:-from-embeddings-to-applications">Learning</a></td>
-      <td>- Building Applications with Vector Databases course, <a href="building-applications-with-vector-databases">Learning</a></td>
+      <tl>- Neo4j courses, <a href="#Learning">Learning</a></tl>
+      <tl>- Cypher Fundamentals course, <a href="cypher-fundamentals">Learning</a></tl>
+      <tl>- Databases: From Embeddings to Applications course, <a href="databases:-from-embeddings-to-applications">Learning</a></tl>
+      <tl>- Building Applications with Vector Databases course, <a href="building-applications-with-vector-databases">Learning</a></tl>
     </tr>
     <tr>
       <td>Pytorch</td>

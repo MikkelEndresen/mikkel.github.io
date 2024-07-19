@@ -177,6 +177,14 @@
         </ul>
       </td>
     </tr>
+    tr>
+      <td>Shell</td>
+      <td>
+        <ul>
+          <li>Course, <a href="introduction-to-shell">Introduction to Shell</a></li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 

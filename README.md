@@ -102,7 +102,7 @@
       <td>Vector Databases</td>
       <td>
         <ul>
-          <li>Course, <a href=""cypher-fundamentals">Cypher Fundamentals</a></li>
+          <li>Course, <a href="cypher-fundamentals">Cypher Fundamentals</a></li>
           <li>Course, <a href="introduction-to-neo4j-graph-data-science">Introduction to Neo4j Graph Data Science</a></li>
           <li>Course, <a href="databases:-from-embeddings-to-applications">Databases: From Embeddings to Applications</a></li>
           <li>Course, <a href="building-applications-with-vector-databases">Building Applications with Vector Databases</a></li>

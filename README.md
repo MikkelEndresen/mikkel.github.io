@@ -140,7 +140,7 @@
       <td>Pytorch</td>
       <td>
         <ul>
-          <li><a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></li>
+          <li>University Project, <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></li>
         </ul>
       </td>
     </tr>
@@ -148,7 +148,7 @@
       <td>FastAPI</td>
       <td>
         <ul>
-          <li><a href="#Softwar-Developer-@-GoodX">GoodX</a></li>
+          <li>Professional experience, <a href="#Softwar-Developer-@-GoodX">GoodX</a></li>
         </ul>
       </td>
     </tr>
@@ -156,8 +156,8 @@
       <td>Numpy</td>
       <td>
         <ul>
-          <li><a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></li>
-          <li><a href="#car-crash-severity-classification">Car Crash Severity</a></li>
+          <li>University project, <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></li>
+          <li>University project, <a href="#car-crash-severity-classification">Car Crash Severity</a></li>
         </ul>
       </td>
     </tr>
@@ -165,7 +165,7 @@
       <td>Django</td>
       <td>
         <ul>
-          <li>Personal project <a href="CSV-to-pandas-web-application">CSV to pandas web application</a></li>
+          <li>Personal project, <a href="CSV-to-pandas-web-application">CSV to pandas web application</a></li>
         </ul>
       </td>
     </tr>
@@ -173,7 +173,7 @@
       <td>ReactJS</td>
       <td>
         <ul>
-          <li>Personal project <a href="CSV-to-pandas-web-application">CSV to pandas web application</a></li>
+          <li>Personal project, <a href="CSV-to-pandas-web-application">CSV to pandas web application</a></li>
         </ul>
       </td>
     </tr>

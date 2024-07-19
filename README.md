@@ -113,15 +113,6 @@
       </td>
     </tr>
     <tr>
-      <td>Numpy</td>
-      <td>
-        <ul>
-          <li>University project, <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></li>
-          <li>University project, <a href="#car-crash-severity-classification">Car Crash Severity</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>Django</td>
       <td>
         <ul>

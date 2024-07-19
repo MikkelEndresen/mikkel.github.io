@@ -92,10 +92,8 @@
 <h2>Skills</h2>
 <table class="skills-table">
   <thead>
-    <tr>
       <th>Skill</th>
       <th>Experience</th>
-    </tr>
   </thead>
   <tbody>
     <tr>

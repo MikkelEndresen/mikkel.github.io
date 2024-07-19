@@ -88,6 +88,7 @@
   }
 </style>
 
+
 <h2>Skills</h2>
 <table class="skills-table">
   <thead>
@@ -101,10 +102,37 @@
       <td>Vector Databases</td>
       <td>
         <ul>
-          <li>Neo4j courses, <a href="#Learning">Learning</a></li>
-          <li>Cypher Fundamentals course, <a href="cypher-fundamentals">Learning</a></li>
-          <li>Databases: From Embeddings to Applications course, <a href="databases:-from-embeddings-to-applications">Learning</a></li>
-          <li>Building Applications with Vector Databases course, <a href="building-applications-with-vector-databases">Learning</a></li>
+          <li>Course, <a href=""cypher-fundamentals">Cypher Fundamentals</a></li>
+          <li>Course, <a href="introduction-to-neo4j-graph-data-science">Introduction to Neo4j Graph Data Science</a></li>
+          <li>Course, <a href="databases:-from-embeddings-to-applications">Databases: From Embeddings to Applications</a></li>
+          <li>Course, <a href="building-applications-with-vector-databases">Building Applications with Vector Databases</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>FastAPI</td>
+      <td>
+        <ul>
+          <li>Professional Experience, <a href="software-developer">GoodX</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>AWS</td>
+      <td>
+        <ul>
+          <li>Professional Experience, <a href="software-developer">GoodX</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Azure</td>
+      <td>
+        <ul>
+          <li>Course, <a href="fundamentals-of-azure-ai-services">Fundamentals of Azure AI services</a></li>
+          <li>Course, <a href="fundamental-ai-concepts">Fundamental AI Concepts</a></li>
+          <li>Course, <a href="fundamentals-of-machine-learning">Fundamentals of machine learning</a></li>
+          <li>Course, <a href="microsoft-azure-ai-fundamentals:-ai-overview">Microsoft Azure AI Fundamentals: AI Overview</a></li>
         </ul>
       </td>
     </tr>

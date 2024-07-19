@@ -60,8 +60,27 @@
 - Founded and managed my own business offering private lessons in Ice Hockey and Ice Skating, coaching for more than 500+ hours.
 
 
+<style>
+  .skills-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .skills-table th, .skills-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  .skills-table th {
+    background-color: #f2f2f2;
+  }
+  .skills-table ul {
+    margin: 0;
+    padding-left: 20px;
+  }
+</style>
+
 <h2>Skills</h2>
-<table>
+<table class="skills-table">
   <thead>
     <tr>
       <th>Skill</th>
@@ -71,31 +90,55 @@
   <tbody>
     <tr>
       <td>Vector Databases</td>
-      <tl>- Neo4j courses, <a href="#Learning">Learning</a></tl>
-      <tl>- Cypher Fundamentals course, <a href="cypher-fundamentals">Learning</a></tl>
-      <tl>- Databases: From Embeddings to Applications course, <a href="databases:-from-embeddings-to-applications">Learning</a></tl>
-      <tl>- Building Applications with Vector Databases course, <a href="building-applications-with-vector-databases">Learning</a></tl>
+      <td>
+        <ul>
+          <li>Neo4j courses, <a href="#Learning">Learning</a></li>
+          <li>Cypher Fundamentals course, <a href="cypher-fundamentals">Learning</a></li>
+          <li>Databases: From Embeddings to Applications course, <a href="databases:-from-embeddings-to-applications">Learning</a></li>
+          <li>Building Applications with Vector Databases course, <a href="building-applications-with-vector-databases">Learning</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Pytorch</td>
-      <td>- <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></td>
+      <td>
+        <ul>
+          <li><a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>FastAPI</td>
-      <td>- <a href="#Softwar-Developer-@-GoodX">GoodX</a></td>
+      <td>
+        <ul>
+          <li><a href="#Softwar-Developer-@-GoodX">GoodX</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Numpy</td>
-      <td>- <a href="#language-identification-using-convolutional-neural-networks">Language Identification</a><br>
-          - <a href="#car-crash-severity-classification">Car Crash Severity</a></td>
+      <td>
+        <ul>
+          <li><a href="#language-identification-using-convolutional-neural-networks">Language Identification</a></li>
+          <li><a href="#car-crash-severity-classification">Car Crash Severity</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Django</td>
-      <td>- Personal project<a href="CSV-to-pandas-web-application">GoodX</a></td>
+      <td>
+        <ul>
+          <li>Personal project <a href="CSV-to-pandas-web-application">CSV to pandas web application</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>ReactJS</td>
-      <td>- Personal project<a href="CSV-to-pandas-web-application">GoodX</a></td>
+      <td>
+        <ul>
+          <li>Personal project <a href="CSV-to-pandas-web-application">CSV to pandas web application</a></li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>

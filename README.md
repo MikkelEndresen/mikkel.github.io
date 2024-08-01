@@ -61,6 +61,7 @@
 
 
 ## Learning
+- Tableau course: [Introduction to Tableau](https://www.datacamp.com/completed/statement-of-accomplishment/course/f35d09b48152e18fd11caef2d6abd9909a1a4042)
 - [Hackerrank Profile](https://www.hackerrank.com/profile/endresen_mikkel)  <a name="hackerrank"></a>
 - Deeplearning.AI course: [Databases: From Embeddings to Applications](https://learn.deeplearning.ai/accomplishments/4b82e5ea-042f-408c-8ad2-6c81675f916c?usp=sharing) <a name="databases:-from-embeddings-to-applications"></a>
 - Deeplearning.AI course: [Building Applications with Vector Databases](https://learn.deeplearning.ai/accomplishments/e6ffc5ae-e56e-4f19-b473-37a482089334)  <a name="building-applications-with-vector-databases"></a>
@@ -70,7 +71,8 @@
 - Microsoft module: [Fundamental AI Concepts](https://learn.microsoft.com/en-us/users/mikkelendresen-2694/achievements/4s75de7k)  <a name="fundamental-ai-concepts"></a>
 - Microsoft module: [Fundamentals of Azure AI Services](https://learn.microsoft.com/nb-no/users/mikkelendresen-2694/achievements/vkfhz7em?ref=https%3A%2F%2Fwww.linkedin.com%2F)  <a name="fundamentals-of-azure-ai-services"></a>
 - Microsoft module: [Fundamentals of machine learning](https://learn.microsoft.com/en-us/users/mikkelendresen-2694/achievements/pta9r854)  <a name="fundamentals-of-machine-learning"></a>
-- Microsoft module: [Microsoft Azure AI Fundamentals: AI Overview](https://learn.microsoft.com/nb-no/users/mikkelendresen-2694/achievements/wagth3fn?ref=https%3A%2F%2Fwww.linkedin.com%2F)  <a name="microsoft-azure-ai-fundamentals:-ai-overview"></a>
+- Microsoft module: [Microsoft Azure AI Fundamentals: AI Overview](https://learn.microsoft.com/nb-no/users/mikkelendresen-2694/achievements/wagth3fn?ref=https%3A%2F%2Fwww.linkedin.com%2F)  <a name="microsoft-azure-ai-fundamentals:-ai-overview">
+</a>
 
 
 

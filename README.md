@@ -62,6 +62,7 @@
 
 ## Learning
 - Tableau course: [Introduction to Tableau](https://www.datacamp.com/completed/statement-of-accomplishment/course/f35d09b48152e18fd11caef2d6abd9909a1a4042)
+- [Tableau Public Profile](https://public.tableau.com/app/profile/mikkel.endresen/vizzes)
 - [Hackerrank Profile](https://www.hackerrank.com/profile/endresen_mikkel)  <a name="hackerrank"></a>
 - Deeplearning.AI course: [Databases: From Embeddings to Applications](https://learn.deeplearning.ai/accomplishments/4b82e5ea-042f-408c-8ad2-6c81675f916c?usp=sharing) <a name="databases:-from-embeddings-to-applications"></a>
 - Deeplearning.AI course: [Building Applications with Vector Databases](https://learn.deeplearning.ai/accomplishments/e6ffc5ae-e56e-4f19-b473-37a482089334)  <a name="building-applications-with-vector-databases"></a>

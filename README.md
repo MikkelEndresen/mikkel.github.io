@@ -3,6 +3,12 @@
 
 ## Projects
 
+### Synogize Internship <a name="synogize-internship"></a>
+- Three projects on time series forecasting, classification, and anomaly detection. For each I evaluate different models usability and performance for the different tasks.
+- The classification and time series forecasting projects were both completed using Snowflake, whereas for the anomaly detection I used Databricks.
+
+[Github Repo](https://github.com/MikkelEndresen/Synogize_internship)
+
 ### Car crash severity classification (_2023_)  <a name="car-crash-severity-classification"></a>
 - Used a dataset with traffic data from ACT and one with traffic camera locations to predict the car crash severity under certain conditions. Applied different statistical models as well as a neural networks to the problem in order to compare their performance. Performed extensive data preprocessing as the dataset was very skewed. SVM ended up being the best model with an accuracy of 93%.
 - Recieved the Berrijam Innovative Applications of AI Award for the project.
@@ -43,6 +49,10 @@
   - Innovator Pro, Participant  (_2021_)
 
 ## Work Experience
+
+**Data Science Intern @ Synogize (_Sep 2024 - Dec 2024_)**
+- Explored and utilised various machine learning libraries and functions on Snowflake and Databricks platforms to recommend best practices and identify innovative applications for the team. 
+- Processed, analysed, and visualised large-scale datasets to evaluate the applicability of different models for tasks such as time series forecasting, anomaly detection, and classification.
 
 **Software Developer @ GoodX (_Nov 2020 - Jan 2023_)**  <a name="software-developer"></a>
 - Promted from intern to Software Developer

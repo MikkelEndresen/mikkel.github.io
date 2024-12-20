@@ -3,7 +3,7 @@
 
 ## Projects
 
-### Synogize Internship <a name="synogize-internship"></a>
+### Synogize Internship (_2024_) <a name="synogize-internship"></a>
 - Three projects on time series forecasting, classification, and anomaly detection. For each I evaluate different models usability and performance for the different tasks.
 - The classification and time series forecasting projects were both completed using Snowflake, whereas for the anomaly detection I used Databricks.
 
